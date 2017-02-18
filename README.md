@@ -1,10 +1,10 @@
 ![Alt text](グループ名.png)
 # 1.チームメンバー
-* あやか
-* 薫
-* 野村 航
-* 梨奈
-* 西嶋 雅也
+* 小野 あやか
+* 橋本 かおる
+* 野村 わたる
+* 山崎 りな
+* 西嶋 まさや
 
 # 2.使用ソフト,サイト
 > [Visual Studio 2015](https://www.microsoft.com/ja-jp/dev/products/visual-studio-2015.aspx)
