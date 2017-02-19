@@ -1,4 +1,4 @@
-![Alt text](グループ名.png)
+![Alt text](GroupImage.png)
 # 1.チームメンバー
 * 小野 あやか
 * 橋本 かおる
