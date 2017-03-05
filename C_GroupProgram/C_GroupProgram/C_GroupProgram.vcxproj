@@ -145,6 +145,9 @@
     <ClCompile Include="Formula.h" />
     <ClCompile Include="Main.c" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Training.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

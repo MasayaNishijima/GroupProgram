@@ -1,3 +1,5 @@
-﻿  Main.c
-  C_GroupProgram.vcxproj -> E:\Users\masamin\Documents\GroupProgram\C_GroupProgram\Debug\C_GroupProgram.exe
-  C_GroupProgram.vcxproj -> E:\Users\masamin\Documents\GroupProgram\C_GroupProgram\Debug\C_GroupProgram.pdb (Full PDB)
+﻿  Formula.h
+  Main.c
+c:\users\nishijimapc2\documents\groupprogram\c_groupprogram\c_groupprogram\main.c(13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+  C_GroupProgram.vcxproj -> C:\Users\nishijimaPC2\Documents\GroupProgram\C_GroupProgram\Debug\C_GroupProgram.exe
